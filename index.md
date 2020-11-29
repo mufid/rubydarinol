@@ -15,8 +15,7 @@ Bergabung ke [Grup Telegram](https://t.me/RubyDariNol)
       <td>{{ video.eps_num }}</td>
       <td>{{ video.title }}</td>
       <td>
-        [YouTube]({{ video.link }})
-        <a href="{{ video.link }}">wow</a>
+        <a href="{{ video.link }}">YouTube</a>
       </td>
     </tr>
   {% endfor %}
