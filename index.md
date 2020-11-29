@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+## Ruby dari Nol
 
-You can use the [editor on GitHub](https://github.com/mufid/rubydarinol/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Bergabung ke [Grup Telegram](https://t.me/RubyDariNol)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Rekaman
 
-### Markdown
+{% for video in site.data.videos %}
+  <li>
+    {{ video.title }}
+  </li>
+{% endfor %}
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
