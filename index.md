@@ -4,20 +4,20 @@ Bergabung ke [Grup Telegram](https://t.me/RubyDariNol)
 
 ### Rekaman
 
-{% for video in site.data.videos %}
-  <table>
-    <thead>
-      <th>&#35; Eps</th>
-      <th>Judul</th>
-      <th>Tautan</th>
-    </thead>
+<table>
+  <thead>
+    <th>&#35; Eps</th>
+    <th>Judul</th>
+    <th>Tautan</th>
+  </thead>
+  {% for video in site.data.videos %}
     <tr>
       <td>{{ video.eps_num }}</td>
       <td>{{ video.title }}</td>
       <td><a href={{ video.link }}>YouTube</a></td>
     </tr>
-  </li>
-{% endfor %}
+  {% endfor %}
+</table>
 
 ### Aturan
 
