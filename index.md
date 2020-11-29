@@ -5,37 +5,21 @@ Bergabung ke [Grup Telegram](https://t.me/RubyDariNol)
 ### Rekaman
 
 {% for video in site.data.videos %}
-  <li>
-    {{ video.title }}
+  <table>
+    <thead>
+      <th>&#35; Eps</th>
+      <th>Judul</th>
+      <th>Tautan</th>
+    </thead>
+    <tr>
+      <td>{{ video.eps_num }}</td>
+      <td>{{ video.title }}</td>
+      <td><a href={{ video.link }}>YouTube</a></td>
+    </tr>
   </li>
 {% endfor %}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Aturan
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mufid/rubydarinol/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Kita akan membuat learning path segala pengetahuan yang dibutuhkan untuk membuat Rails dari nol.
+- Kita tidak akan membahas topik yang sama dua kali. Silahkan merujuk ke episode yang pernah dibuat.
