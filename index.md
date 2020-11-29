@@ -25,3 +25,4 @@ Bergabung ke [Grup Telegram](https://t.me/RubyDariNol)
 
 - Kita akan membuat learning path segala pengetahuan yang dibutuhkan untuk membuat Rails dari nol.
 - Kita tidak akan membahas topik yang sama dua kali. Silahkan merujuk ke episode yang pernah dibuat.
+- Kita hanya akan menerbitkan video dalam Bahasa Indonesia.
