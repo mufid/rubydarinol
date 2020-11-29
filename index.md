@@ -1,6 +1,9 @@
 ## Ruby dari Nol
 
-Bergabung ke [Grup Telegram](https://t.me/RubyDariNol)
+Zoom Interaktif dwimingguan dengan tujuan akhir: membuat *framework* seperti Rails.
+
+Untuk info episode interaktif selanjutnya, silahkan bergabung ke
+[Grup Telegram](https://t.me/RubyDariNol)
 
 ### Rekaman
 
