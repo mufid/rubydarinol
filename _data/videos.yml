@@ -1,6 +1,9 @@
 - eps_num: "001"
   title: Sintaks-sintaks Esensial
   link: https://www.youtube.com/watch?v=2Stwtt6xax4
+- eps_num: "002"
+  title: Masalah dari Ruby di Windows...
+  link: https://www.youtube.com/watch?v=xTdB-ueGUSw
 - eps_num: "003"
   title: Protokol HTTP, Rackup Sederhana, Implementasi httpgit di Sinatra
   link: https://www.youtube.com/watch?v=eRxpTlYN48I
