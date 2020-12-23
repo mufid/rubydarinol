@@ -7,3 +7,6 @@
 - eps_num: "003"
   title: Protokol HTTP, Rackup Sederhana, Implementasi httpgit di Sinatra
   link: https://www.youtube.com/watch?v=eRxpTlYN48I
+- eps_num: "004"
+  title: Lebih lanjut tentang Rack di Rails
+  link: https://www.youtube.com/watch?v=JgOorxJuYSI
