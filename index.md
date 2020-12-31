@@ -13,11 +13,9 @@ serupa, Mufid belum pernah membaca buku Rebuilding Rails.
 
 ### Episode Mendatang
 
-<ul>
 {% for episode in site.episodes %}
-<li><a href="{{ episode.url }}">{{ episode.title }}</a></li>
+- <a href="{{ episode.url }}">{{ episode.title }}</a>
 {% endfor %}
-</ul>
 
 ### Rekaman
 
