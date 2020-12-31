@@ -4,3 +4,9 @@ collections:
   episodes:
     layout: episodes
     output: true
+defaults:
+  - scope:
+      path: ""
+      type: "episodes"
+    values:
+      layout: "episodes"
