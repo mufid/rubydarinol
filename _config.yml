@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
+base_url: https://mufid.github.io/rubydarinol
 collections:
 - episodes
