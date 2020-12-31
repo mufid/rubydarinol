@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
-baseurl: https://mufid.github.io/rubydarinol
+# baseurl: https://mufid.github.io/rubydarinol
 collections:
 - episodes
